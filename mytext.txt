@@ -7,5 +7,5 @@ One more to push to github
 
 Here I commit at github and want to pull to my local comp.
 
-Pushing back to github
+Pushing back to github and back to local
 
