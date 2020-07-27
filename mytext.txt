@@ -2,9 +2,10 @@ this is file for she codes tutorial. And now I change this text.
 
 And another change that I want to merge.
 
+
 One more to push to github
 
 Here I commit at github and want to pull to my local comp.
 
-And I want to pull it to my local comp.
+Pushing back to github
 
