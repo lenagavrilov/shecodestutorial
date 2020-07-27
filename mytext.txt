@@ -6,3 +6,5 @@ One more to push to github
 
 Here I commit at github and want to pull to my local comp.
 
+And I want to pull it to my local comp.
+
