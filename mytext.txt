@@ -11,4 +11,5 @@ Pushing back to github and back to local.
 
 Push it to remote.
 Now I add another commit from remote to see how to solve this conflict.
+commiting again from remote.
 
