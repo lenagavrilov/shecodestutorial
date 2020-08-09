@@ -1,4 +1,8 @@
-this is file for she codes tutorial. And now I change this text.
+<<<<<<< HEAD
+Oh NO!this is file for she codes tutorial. And now I change this text.
+=======
+Oh YeS!this is file for she codes tutorial. And now I change this text.
+>>>>>>> 0027475cc6a2c86e7cf3d047efae58c769a245a7
 
 And another change that I want to merge.
 
