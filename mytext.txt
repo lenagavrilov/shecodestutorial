@@ -11,3 +11,5 @@ Pushing back to github and back to local.
 
 Push it to remote.
 
+I commit on the local to see how to solve conflict from commit from remote.
+
