@@ -10,5 +10,5 @@ Here I commit at github and want to pull to my local comp.
 Pushing back to github and back to local.
 
 Push it to remote.
-Now I add a commit from remote to see how to solve the conflict.
+Now I add a commit from remote to see how to solve this conflict.
 
