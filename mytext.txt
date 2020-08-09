@@ -1,6 +1,6 @@
-this is file for she codes tutorial. And now I change this text.
+this is number one conflict file for she codes tutorial. And now I change this text.
 
-And another change that I want to merge.
+And number two conflict another change that I want to merge.
 
 
 One more to push to github
