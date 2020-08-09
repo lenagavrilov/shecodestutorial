@@ -13,4 +13,5 @@ Push it to remote.
 Now I add another commit from remote to see how to solve this conflict.
 
 I commit again on the local to see how to solve conflict from commit from remote.
+Commiting again from local.
 
